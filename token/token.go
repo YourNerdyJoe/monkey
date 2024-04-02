@@ -15,6 +15,8 @@ const (
 	IDENT = "IDENT"
 	INT   = "INT"
 
+	STRING = "STRING"
+
 	//operators
 	ASSIGN   = "="
 	PLUS     = "+"
